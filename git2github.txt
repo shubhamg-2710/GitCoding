@@ -51,5 +51,14 @@ for that do folllowing cammand-
 
    for online repository directly see at right corner.
 
+---------------------------------------Task 5 : change code on remote---------------------------------------------------------------------
+
+we can modify the code by 'edit option' and after taht commit changes. So code is upcdate.
+                                 But we not seen the result/output here. 
+for see result  you have to pull the remote repo to local repo.
+do thr code at terminal and result upated see at VS code as result.
+
+                     git pull 
+
 
 
