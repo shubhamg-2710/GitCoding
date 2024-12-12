@@ -59,6 +59,6 @@ for see result  you have to pull the remote repo to local repo.
 do thr code at terminal and result upated see at VS code as result.
 
                      git pull 
-
+                     git log   #show what change do  upto last 
 
 
