@@ -89,8 +89,8 @@ do thr code at terminal and result upated see at VS code as result.
 Arti branch we have. we did modification in files and push to remote repo.
           git add .
           git commit -m "add"
-          git push origin main    # cd will be Arti branch.
+          git push origin Arti    # because we have to add this branch on github.
 
-On github we  psee pull Request.
+Then On github we  see pull Request.After accepted request see result in "main" branch. 
 
 
