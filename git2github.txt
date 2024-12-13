@@ -84,4 +84,13 @@ do thr code at terminal and result upated see at VS code as result.
          git push origin -d dataSci  #online repo by terminal
 
 
---------------------------------------------------Task 7 :    ----------------------------------------------------------------
+--------------------------------------------------Task 7 : Pull Request with branch  ----------------------------------------------------------------
+
+Arti branch we have. we did modification in files and push to remote repo.
+          git add .
+          git commit -m "add"
+          git push origin main    # cd will be Arti branch.
+
+On github pull Request see.
+
+
