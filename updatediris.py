@@ -4,3 +4,6 @@ print("Error bhari jindagi hey bhai 3 bar!")
 print("\n\n\n\n\n\n")
 
 print(""*20)
+
+
+print("worng")
