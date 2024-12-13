@@ -80,6 +80,8 @@ do thr code at terminal and result upated see at VS code as result.
     if we change branch in VS code so its directly change in bash also.
 
     Delete branch :
-         git branch -d demo
+         git branch -d demo   #localrepo
+         git push origin -d dataSci  #online repo by terminal
+
 
 --------------------------------------------------Task 7 :    ----------------------------------------------------------------
