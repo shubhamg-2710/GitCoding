@@ -86,21 +86,34 @@ do thr code at terminal and result upated see at VS code as result.
 
 --------------------------------------------------Task 7 : Pull Request with branch  ----------------------------------------------------------------
 
-Arti branch we have. we did modification in files and push to remote repo.
+create Arti branch. we did modification in files and push to remote repo.
           git add .
           git commit -m "add"
           git push origin Arti    # because we have to add this branch on github.
 
 Then On github we  see pull Request.Because of push this branch comes on github.
-Now you do some changes in  this file and now upadted same branch on remote repo. 
+We accept request and see the refelction in main and Arti branch, at remote repo. 
+
+
+Now you did some changes in  this file and now upadted same branch on remote repo. 
 
           git add .
           git commit -m "add"
           git push origin Arti
+
           
-Now our branch again updated but this changes not reflecyed in main branch.        
-          
+Now our branch again updated but this changes not reflecyed in main branch.   
+
+Similarly we do any cahnge in any file and updated this to branch. 
+But for final merge to "main" branch required different task !!! Wait for it.
+
+-----------------------------------------------Task 8 : Any branch merge to "Main" branch  ----------------------------------------------------------------          
+
+  Now Any branch update/merege to main branch by      
+         
           git merge branch
 # (After accepted request see result in "main" branch.) 
 
-___________________________________________last line just add------
+After the branches merge to "main" we can delete this also.Its depend on developer/team member.
+
+___________________________________________last line just add__________________________________________________________________
