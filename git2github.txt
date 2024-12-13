@@ -91,6 +91,6 @@ Arti branch we have. we did modification in files and push to remote repo.
           git commit -m "add"
           git push origin main    # cd will be Arti branch.
 
-On github pull Request see.
+On github we  psee pull Request.
 
 
