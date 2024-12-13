@@ -62,3 +62,24 @@ do thr code at terminal and result upated see at VS code as result.
                      git log   #show what change do  upto last 
 
 
+------------------------------------------Task 6 : Create,Rename, Collabration,Switch & Delete branch ----------------------------------------------
+
+         git branch <newBranch_name>
+         git branch -m <renamebranch>
+        
+    Whenever branch made, its not show physically like folders we see.
+    In new branch we see all same files which we created in 'main'.
+
+
+    "Collabration" aviallable in setting menu! Its required gitId/mailId to collab others.
+
+    Move one branch to another.    
+
+          git checkout Artificial
+
+    if we change branch in VS code so its directly change in bash also.
+
+    Delete branch :
+         git branch -d demo
+
+--------------------------------------------------Task 7 :    ----------------------------------------------------------------
