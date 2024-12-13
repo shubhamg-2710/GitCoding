@@ -91,6 +91,10 @@ Arti branch we have. we did modification in files and push to remote repo.
           git commit -m "add"
           git push origin Arti    # because we have to add this branch on github.
 
-Then On github we  see pull Request.After accepted request see result in "main" branch. 
+Then On github we  see pull Request.Because of push this branch comes on github.
+# (After accepted request see result in "main" branch.) 
 
 
+Now you do some chabges still this file and now upadted same branch on remote repo. 
+Not directly update to main. so here we do, 
+   git merge branch
