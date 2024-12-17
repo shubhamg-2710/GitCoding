@@ -120,5 +120,7 @@ After the branches merge to "main" we can delete this also.Its depend on develop
 
   Remove file from folder :
       git rm model.py    # any file will delete which is aviallable on local system
-                         # any file will delete which is aviallable online repo
+      on github right side 3 dot contains delete file option.         
+                          # any file will delete which is aviallable online repo
+                             
                              
