@@ -116,4 +116,9 @@ But for final merge to "main" branch required different task !!! Wait for it.
 
 After the branches merge to "main" we can delete this also.Its depend on developer/team member.
 
-___________________________________________last line just add__________________________________________________________________
+----------------------------------------------------Task 9 : remove file ----------------------------------------------------------------------------------
+
+  Remove file from folder :
+      git rm model.py    # any file will delete which is aviallable on local system
+                         # any file will delete which is aviallable online repo
+                             
